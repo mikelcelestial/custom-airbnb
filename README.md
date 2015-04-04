@@ -1,2 +1,2 @@
 # custom-airbnb
-Custom Airbnb homepage.
+Sample Custom Airbnb homepage.
